@@ -1,7 +1,7 @@
 ## Profile Management/Streamed user profiles
 
 | Name | Default setting | VDA |
-| -| -| -|
+| | | |
 | Always cache| Disabled | All VDA versions |
 | Always cache size| 0 Mb | All VDA versions|
 | Profile streaming| Disabled | All VDA versions |
